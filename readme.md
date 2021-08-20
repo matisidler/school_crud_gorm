@@ -1,3 +1,5 @@
+Some GORM commands:
+
 Select a driver (MySQL or Postgres)
 driver := storage.MySQL // driver := storage.Postgres
 
